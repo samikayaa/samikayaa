@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samikayaa
-- 👀 I’m interested in data science.
+- 👀 I’m interested in everything touch the data.
 - 🌱 I’m currently learning JS.
 - 📫 How to reach me samikaya89@gmail.com
 - ⚡ Fun fact: 🚣‍♀️🚣 Rowing!
