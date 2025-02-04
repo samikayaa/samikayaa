@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning JS.
 - 📫 How to reach me samikaya89@gmail.com
 - ⚡ Fun fact: 🚣‍♀️🚣 Rowing!
+- continue to learn...
